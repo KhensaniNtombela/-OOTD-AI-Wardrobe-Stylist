@@ -312,10 +312,11 @@ Individual contributions should be documented separately according to each group
 
 ## Project Documentation
 
-Detailed project documentation covering the project objectives, functionality, AI approach, development process, testing requirements and future improvements is included in this repository.
+Detailed project documentation covering the project objectives, functionality, AI approach, development process, testing requirements and future improvements is included in this repository. 
 
 ### Full Project Documentation
-[Download the Full Project Documentation]e(OOTD_AI_Wardrobe_Stylist_Project_Documentation.pdf)
+
+[Download the Full Project Documentation](OOTD_AI_Wardrobe_Stylist_Project_Documentation.pdf)
 
 
 ## Project Links
