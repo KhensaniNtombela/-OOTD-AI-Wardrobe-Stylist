@@ -301,8 +301,11 @@ Individual contributions should be documented separately according to each group
 ## Project Documentation:
 Detailed project documentation covering the project objectives, functionality, AI approach, development process, testing requirements and future improvements is included in this repository.
 
-Project Documentation:
-AI_Wardrobe_Stylist_Project_Documentation.docx
+##  Project Documentation
+
+Detailed project documentation covering the project objectives, functionality, AI approach, development process, testing requirements and future improvements is included in this repository.
+
+[Download the Full Project Documentation](AI_Wardrobe_Stylist_Project_Documentation.docx)
 
 ## Project Link:
 Live AI Wardrobe Stylist
