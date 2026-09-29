@@ -1,11 +1,12 @@
-# -OOTD-AI-Wardrobe-Stylist
-# AI Wardrobe Stylist
+# OOTD AI Wardrobe Stylist
 
 An AI-powered fashion styling and digital wardrobe application designed to help users discover personalised outfit ideas using their existing wardrobe, contextual information, and generative AI.
 
-##  Project Overview
+---
 
-The AI Wardrobe Stylist is a group-developed project that explores how generative AI and prompt engineering can be applied to an everyday problem: deciding what to wear.
+## Project Overview
+
+The **AI Wardrobe Stylist** is a group-developed project that explores how generative AI and prompt engineering can be applied to an everyday problem: deciding what to wear.
 
 The application combines an AI fashion stylist with a digital wardrobe and personal fashion organisation features. Rather than simply suggesting random clothing combinations, the project aims to understand the user's request, interpret the occasion and desired aesthetic, and match recommendations against the user's actual wardrobe.
 
@@ -13,7 +14,7 @@ The project began as a partially completed prototype and was enhanced with a foc
 
 ---
 
-##  Problem Statement
+## Problem Statement
 
 Choosing an outfit can involve several factors, including:
 
@@ -27,11 +28,11 @@ Choosing an outfit can involve several factors, including:
 
 Generic fashion recommendations may not reflect what a person actually owns.
 
-The AI Wardrobe Stylist aims to address this by providing a more personalised experience where users can describe what they need naturally and receive recommendations based on their own wardrobe and the context of their request.
+The **AI Wardrobe Stylist** aims to address this by providing a more personalised experience where users can describe what they need naturally and receive recommendations based on their own wardrobe and the context of their request.
 
 ---
 
-##  Project Objectives
+## Project Objectives
 
 The project aims to:
 
@@ -47,9 +48,9 @@ The project aims to:
 
 ---
 
-##  Key Features
+## Key Features
 
-###  AI Stylist
+### AI Stylist
 
 A conversational AI stylist that allows users to describe what they want naturally.
 
@@ -67,7 +68,7 @@ The AI is designed to interpret contextual information rather than requiring use
 
 ---
 
-###  Digital Wardrobe
+### Digital Wardrobe
 
 Users can maintain a digital representation of the clothing and accessories they own.
 
@@ -88,7 +89,7 @@ The wardrobe acts as an important source of information when generating outfit r
 
 ---
 
-###  Historic Chats
+### Historic Chats
 
 Styling conversations can be retained so users can return to previous recommendations.
 
@@ -104,7 +105,7 @@ This allows the AI stylist to maintain context within an ongoing styling experie
 
 ---
 
-###  Inspiration Hub
+### Inspiration Hub
 
 The application incorporates fashion inspiration to help users explore different aesthetics and styling ideas.
 
@@ -132,7 +133,7 @@ Saved outfits can form part of the user's personal fashion inspiration collectio
 
 ---
 
-###  Boards
+### Boards
 
 The application supports a Pinterest-inspired organisation concept where users can organise saved outfits into themed boards.
 
@@ -157,7 +158,7 @@ Where applicable, a wear-log entry can be connected to the styling conversation 
 
 This creates a connection between:
 
-AI Stylist → Outfit → Wear Log → Chat History
+**AI Stylist → Outfit → Wear Log → Chat History**
 
 ---
 
@@ -191,29 +192,35 @@ The system can interpret this as a combination of:
 - Controlled styling
 - Avoiding excessive formality
 
+### Conversational Refinement
+
 The project also emphasises conversational refinement.
 
 For example:
 
-User:  
-"I need something for work."
+**User:**
 
-AI: 
+> "I need something for work."
+
+**AI:**
+
 Asks an appropriate follow-up question if additional context is required.
 
-User: 
-"It's tomorrow."
+**User:**
+
+> "It's tomorrow."
 
 The AI should understand that the user is referring to the previously discussed work occasion.
 
-User: 
-"Make it more feminine."
+**User:**
+
+> "Make it more feminine."
 
 The AI should modify the existing recommendation rather than treating the request as a completely new conversation.
 
 ---
 
-##  Wardrobe-First Intelligence
+## Wardrobe-First Intelligence
 
 A key design principle of the project is that recommendations should be grounded in the user's actual wardrobe.
 
@@ -234,7 +241,7 @@ If the wardrobe cannot produce a suitable complete outfit, the application shoul
 
 ---
 
-##  Inspiration-to-Wardrobe Matching
+## Inspiration-to-Wardrobe Matching
 
 The intended styling workflow is:
 
@@ -254,12 +261,14 @@ Evaluate Compatibility
 Explain the Recommendation
      ↓
 Save / Modify / Wear / Add to Board
+This repository contains project documentation and supporting materials for the AI Wardrobe Stylist. The live application is accessible through the project link above.
 
 This creates a connection between fashion inspiration and the user's real wardrobe.
 
-##Tools & Technologies
+Tools & Technologies
 
 The project made use of:
+
 Generative AI
 Prompt Engineering
 Gemini
@@ -269,9 +278,10 @@ Web application technologies
 
 The project focuses particularly on the practical use of generative AI and prompt engineering to create an interactive product experience.
 
-##Development Approach
+Development Approach
 
 The project was developed from an existing partially completed prototype rather than being created from scratch.
+
 The development approach focused on:
 
 Understanding the existing application.
@@ -284,11 +294,12 @@ Connecting chats, outfits and wear logs.
 Improving usability and accessibility.
 Testing user-facing functionality.
 Refining the overall product experience.
-
-#Group Project
+Group Project
 
 This was developed as a collaborative group project.
+
 The project involved collaboration around:
+
 Product functionality
 Generative AI
 Prompt engineering
@@ -298,35 +309,41 @@ Testing and refinement
 
 Individual contributions should be documented separately according to each group member's actual responsibilities.
 
-##  Project Documentation
+Project Documentation
 
 Detailed project documentation covering the project objectives, functionality, AI approach, development process, testing requirements and future improvements is included in this repository.
 
-[Download the Full Project Documentation](AI_Wardrobe_Stylist_Project_Documentation.docx)
+Full Project Documentation
 
-# Project Link:
+Download the Full Project Documentation
+
+Project Links
 Live AI Wardrobe Stylist
-[Open the AI Wardrobe Stylist](https://gemini.google.com/share/bfb8b44fc16a?skid=f0551d75-2f91-4471-bc0f-d478a1a0c7d7)
 
-Portfolio:
-[View Khensani Ntombela's Portfolio](https://khensanintombela.github.io/My-Portfolio/)
+Open the AI Wardrobe Stylist
 
-# Future Improvements:
+Portfolio
+
+View Khensani Ntombela's Portfolio
+
+Future Improvements
 
 Potential future improvements include:
-An option to either take a picture of an item or pasting a url of a picture from the internet
-Secure backend/API architecture
-More advanced wardrobe analysis
-Improved image understanding
-Expanded multilingual support
-More sophisticated personalisation
-Enhanced outfit comparison
-Additional integrations for weather and calendar-based styling
-Further improvements to AI reasoning and recommendation quality
 
-## Key Learning Areas
+Image-based wardrobe input: Allow users to take a picture of a clothing item and add it to their digital wardrobe.
+Image URL input: Allow users to paste a URL to an online image of a clothing item for wardrobe analysis.
+Secure backend/API architecture.
+More advanced wardrobe analysis.
+Improved image understanding.
+Expanded multilingual support.
+More sophisticated personalisation.
+Enhanced outfit comparison.
+Additional integrations for weather and calendar-based styling.
+Further improvements to AI reasoning and recommendation quality.
+Key Learning Areas
 
 The project provided practical experience in:
+
 Generative AI
 Prompt engineering
 AI product design
@@ -336,12 +353,24 @@ Digital wardrobe management
 AI-assisted development
 Testing and iterative refinement
 Thinking about AI as part of a complete product rather than simply a chatbot
+Screenshots
 
-## Screenshots:
 Screenshots demonstrating the application's major features will be added to this repository.
 
-##  Project Status
+The planned screenshots include:
 
-Status: Completed project / portfolio showcase
+AI Stylist
+Digital Wardrobe
+Inspiration Hub
+Saved Outfits
+Historic Chats
+Wear Logs
+Profile
+Settings
+Project Status
 
-This repository contains project documentation and supporting materials for the AI Wardrobe Stylist. The live application is accessible through the project link above.
+Status: Completed Project / Portfolio Showcase
+
+This repository contains project documentation and supporting materials for the AI Wardrobe Stylist.
+
+The live application is accessible through the project link above.
