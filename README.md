@@ -318,6 +318,9 @@ Detailed project documentation covering the project objectives, functionality, A
 
 [Download the Full Project Documentation](OOTD_AI_Wardrobe_Stylist_Project_Documentation.pdf)
 
+### Project Presentation
+
+[View the Project Presentation](OOTD_AI_Wardrobe_Stylist_Presentation.pptx)
 
 ## Project Links
 
