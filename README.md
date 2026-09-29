@@ -257,7 +257,7 @@ Save / Modify / Wear / Add to Board
 
 This creates a connection between fashion inspiration and the user's real wardrobe.
 
-## Tools & Technologies
+###Tools & Technologies
 
 The project made use of:
 Generative AI
@@ -269,7 +269,7 @@ Web application technologies
 
 The project focuses particularly on the practical use of generative AI and prompt engineering to create an interactive product experience.
 
-## Development Approach
+###Development Approach
 
 The project was developed from an existing partially completed prototype rather than being created from scratch.
 The development approach focused on:
@@ -285,7 +285,7 @@ Improving usability and accessibility.
 Testing user-facing functionality.
 Refining the overall product experience.
 
-## Group Project
+###Group Project
 
 This was developed as a collaborative group project.
 The project involved collaboration around:
