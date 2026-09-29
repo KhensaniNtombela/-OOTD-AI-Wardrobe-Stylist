@@ -340,7 +340,8 @@ More sophisticated personalisation.
 Enhanced outfit comparison.
 Additional integrations for weather and calendar-based styling.
 Further improvements to AI reasoning and recommendation quality.
-Key Learning Areas
+
+##Key Learning Areas
 
 The project provided practical experience in:
 
@@ -353,20 +354,58 @@ Digital wardrobe management
 AI-assisted development
 Testing and iterative refinement
 Thinking about AI as part of a complete product rather than simply a chatbot
-Screenshots
 
-Screenshots demonstrating the application's major features will be added to this repository.
+## Screenshots
 
-The planned screenshots include:
+The following screenshots demonstrate the main features and user interface of the AI Wardrobe Stylist.
 
-AI Stylist
-Digital Wardrobe
-Inspiration Hub
-Saved Outfits
-Historic Chats
-Wear Logs
-Profile
-Settings
+### AI Stylist
+
+The AI Stylist allows users to describe what they need naturally and receive an outfit recommendation based on their wardrobe and context.
+
+![AI Stylist](screenshots/AI_Stylist.png)
+
+### Digital Wardrobe
+
+The Digital Wardrobe allows users to organise and browse clothing, shoes, bags and accessories.
+
+![Digital Wardrobe](screenshots/Digital_Wardrobe.png)
+
+### Inspiration Hub
+
+The Inspiration Hub provides fashion inspiration and allows users to explore different aesthetics.
+
+![Inspiration Hub](screenshots/Inspiration_Hub.png)
+
+### Saved Outfits
+
+Users can save outfit combinations and organise them through fashion boards.
+
+![Saved Outfits](screenshots/Saved_Outfits.png)
+
+### Historic Chats
+
+Previous styling conversations can be accessed and restored from Historic Chats.
+
+![Historic Chats](screenshots/Historic_Chats.png)
+
+### Wear Logs
+
+Wear Logs allow users to record outfits they have worn and access associated styling conversations.
+
+![Wear Logs](screenshots/Wear_Logs.png)
+
+### Profile
+
+The Profile section allows users to manage personal information and style notes.
+
+![Profile](screenshots/Profile.png)
+
+### Settings
+
+Settings provide controls for language, appearance and accent colour.
+
+![Settings](screenshots/Settings.png)
 Project Status
 
 Status: Completed Project / Portfolio Showcase
