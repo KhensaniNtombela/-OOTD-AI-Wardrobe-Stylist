@@ -257,7 +257,7 @@ Save / Modify / Wear / Add to Board
 
 This creates a connection between fashion inspiration and the user's real wardrobe.
 
-###Tools & Technologies
+##Tools & Technologies
 
 The project made use of:
 Generative AI
@@ -269,7 +269,7 @@ Web application technologies
 
 The project focuses particularly on the practical use of generative AI and prompt engineering to create an interactive product experience.
 
-###Development Approach
+##Development Approach
 
 The project was developed from an existing partially completed prototype rather than being created from scratch.
 The development approach focused on:
@@ -285,7 +285,7 @@ Improving usability and accessibility.
 Testing user-facing functionality.
 Refining the overall product experience.
 
-###Group Project
+#Group Project
 
 This was developed as a collaborative group project.
 The project involved collaboration around:
@@ -298,23 +298,20 @@ Testing and refinement
 
 Individual contributions should be documented separately according to each group member's actual responsibilities.
 
-## Project Documentation:
-Detailed project documentation covering the project objectives, functionality, AI approach, development process, testing requirements and future improvements is included in this repository.
-
 ##  Project Documentation
 
 Detailed project documentation covering the project objectives, functionality, AI approach, development process, testing requirements and future improvements is included in this repository.
 
 [Download the Full Project Documentation](AI_Wardrobe_Stylist_Project_Documentation.docx)
 
-## Project Link:
+# Project Link:
 Live AI Wardrobe Stylist
 [Open the AI Wardrobe Stylist](https://gemini.google.com/share/bfb8b44fc16a?skid=f0551d75-2f91-4471-bc0f-d478a1a0c7d7)
 
 Portfolio:
 [View Khensani Ntombela's Portfolio](https://khensanintombela.github.io/My-Portfolio/)
 
-## Future Improvements:
+# Future Improvements:
 
 Potential future improvements include:
 An option to either take a picture of an item or pasting a url of a picture from the internet
