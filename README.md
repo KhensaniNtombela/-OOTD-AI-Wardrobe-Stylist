@@ -413,7 +413,8 @@ Settings provide controls for language, appearance and accent colour.
 ![Settings](screenshots/Settings.png)
 Project Status
 
-Status: Completed Project / Portfolio Showcase
+## Status:
+Completed Project / Portfolio Showcase
 
 This repository contains project documentation and supporting materials for the AI Wardrobe Stylist.
 
