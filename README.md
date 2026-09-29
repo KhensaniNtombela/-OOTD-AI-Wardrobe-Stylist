@@ -343,7 +343,7 @@ Thinking about AI as part of a complete product rather than simply a chatbot
 ## Screenshots:
 Screenshots demonstrating the application's major features will be added to this repository.
 
-## Project Status
+##  Project Status
 
 Status: Completed project / portfolio showcase
 
